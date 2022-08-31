@@ -1,0 +1,7 @@
+../Src/main.c:47:5:main	8	static
+../Src/main.c:61:6:espera	24	static
+../Src/main.c:66:6:configura_led	4	static
+../Src/main.c:74:6:prende_led	4	static
+../Src/main.c:79:6:apaga_led	4	static
+../Src/main.c:84:6:configura_timer	4	static
+../Src/main.c:109:6:espera_ms	16	static
